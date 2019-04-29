@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed4cf9f-9e55-4dcb-adee-539fc47b3c23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Queue/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -95,8 +100,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="426" />
-    <option name="y" value="91" />
+    <option name="x" value="425" />
+    <option name="y" value="90" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -107,6 +112,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,12 +121,15 @@
               <item name="Queue" type="b2602c69:ProjectViewProjectNode" />
               <item name="Queue" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Queue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,16 +203,18 @@
       <workItem from="1556189203764" duration="7256000" />
       <workItem from="1556373493106" duration="3050000" />
       <workItem from="1556423294373" duration="131000" />
+      <workItem from="1556511560290" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10437000" />
+    <option name="totallyTimeSpent" value="11035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18632708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>

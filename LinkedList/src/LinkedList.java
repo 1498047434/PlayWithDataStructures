@@ -25,7 +25,7 @@ public class LinkedList<E> {
 
 //    private Node head;
     private Node dummyHead;
-    int size;
+    private int size;
 
 
     public LinkedList(){
@@ -193,5 +193,7 @@ public class LinkedList<E> {
     public E removeLast(){
         return remove(size -1);
     }
+
+
 
 }
