@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a097234-e9f0-49fa-aeb3-fc780b65923c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Queue/src/LinkedListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/out/production/Queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -216,7 +218,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
