@@ -1,3 +1,7 @@
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+
 public class BST<E extends Comparable<E>> {
 
     private class Node{
@@ -37,6 +41,7 @@ public class BST<E extends Comparable<E>> {
 //           add(root, e);
 //        }
         root = add(root,e);
+        size ++;
     }
 
     //向以node为根的二分搜索树中插入新的元素E， 递归算法
@@ -112,6 +117,39 @@ public class BST<E extends Comparable<E>> {
         }
     }
 
+    //二分树前序遍历（非递归实现）
+    public void preOrderNR(){
+        Stack<Node> stack = new Stack<>();
+
+        stack.push(root);
+        while (!stack.isEmpty()){
+            Node node = stack.pop();
+            if (node != null){
+                System.out.println(node.e);
+                stack.push(node.right);
+                stack.push(node.left);
+            }
+        }
+    }
+
+    //二分树中遍历（非递归实现）
+    public void inOrderNR(){
+        Stack<Node> stack = new Stack<>();
+
+        stack.push(root);
+        while (!stack.isEmpty()){
+            Node node = stack.peek();
+            if (node.left == null){
+                System.out.println(stack.peek());
+                Node node2 = stack.peek();
+                stack.push(node2.right);
+            }else {
+                stack.push(node.left);
+            }
+
+        }
+    }
+
     // 二分搜索树的中序遍历
     public void inOrder(){
         inOrder(root);
@@ -126,6 +164,134 @@ public class BST<E extends Comparable<E>> {
             inOrder(node.right);
         }
     }
+
+    //后序遍历
+    public void afterOrder(){
+        afterOrder(root);
+    }
+
+    //后序遍历以node为根的二分搜索树， 递归算法
+    private void afterOrder(Node node) {
+        if(node != null){
+            afterOrder(node.left);
+            afterOrder(node.right);
+            System.out.println(node.e);
+        }
+    }
+
+    //层次遍历
+    public void stageOrder(){
+        Queue<Node> queue = new LinkedList<>();
+
+        queue.add(root);
+
+        while(!queue.isEmpty()){
+            Node cur = queue.remove();
+            System.out.println(cur.e);
+            if (cur.left != null){
+                queue.add(cur.left);
+            }
+            if (cur.right != null){
+                queue.add(cur.right);
+            }
+
+        }
+    }
+
+    //查找最小元素
+    public E minimum(){
+        if (size == 0){
+            throw new IllegalArgumentException("BST is empty!");
+        }
+
+        return minimum(root);
+    }
+    //查找最小元素（递归实现）
+    private E minimum(Node node){
+        if (node.left == null){
+            return node.e;
+        }
+        return minimum(node.left);
+    }
+
+    //删除最小元素
+    public E removeMin(){
+        E ret = minimum();
+        root = removeMin(root);
+        return ret;
+    }
+    //删除最小元素递归实现）
+    private Node removeMin(Node node) {
+        if (node.left == null){
+            Node rightNode = node.right;
+            node.right = null;
+            size--;
+            return rightNode;
+        }
+        node.left = removeMin(node.left);
+
+        return node;
+    }
+
+    //查找最大元素
+    public E maximum(){
+        if (size == 0){
+            throw new IllegalArgumentException("BST is empty!");
+        }
+
+        return maximum(root);
+    }
+    //查找最大元素（递归实现）
+    private E maximum(Node node){
+        if (node.right == null){
+            return node.e;
+        }
+        return maximum(node.right);
+    }
+
+    //删除最大元素
+    public E removeMax(){
+        E ret = maximum();
+        root = removeMax(root);
+        return ret;
+    }
+    //删除最大元素（递归实现）
+    private Node removeMax(Node node) {
+        if (node.right == null){
+            Node rightNode = node.left;
+            node.left = null;
+            size--;
+            return rightNode;
+        }
+        node.right = removeMax(node.right);
+
+        return node;
+    }
+
+    //删除任意元素
+    public void remove(E e){
+        remove(root, e);
+    }
+
+    //删除任意元素（递归实现）
+    private Node remove(Node node, E e) {
+
+
+        if(node == null){//如果跟节点为空
+            return null;
+        }
+        if(node.left == null){
+            Node rightNode = node.right;
+            node.right = null;
+            size--;
+            return rightNode;
+        }
+        if (node.right == null){
+            Node left
+        }
+
+    }
+
 
     @Override
     public String toString(){

@@ -14,10 +14,35 @@ public class Main {
         //     6       11
         //           9   12
 
-        System.out.println(bst.contains(11));
-        bst.preOrder();
-        bst.inOrder();
+//        System.out.println(bst.contains(11));
+//        bst.preOrder();
+//        bst.inOrder();
+//        System.out.println();
+//        bst.preOrderNR();
+
 //        System.out.println(bst);
+
+//        bst.afterOrder();
+//        bst.stageOrder();
+
+//        System.out.println(bst.size());
+//        System.out.println();
+//        bst.removeMin();
+//        bst.preOrderNR();
+//        System.out.println();
+//        System.out.println(bst.size());
+//
+//        System.out.println();
+//        bst.removeMin();
+//        bst.preOrderNR();
+
+        bst.removeMax();
+        bst.preOrderNR();
+
+
+        System.out.println();
+        bst.removeMax();
+        bst.preOrderNR();
     }
 
 
