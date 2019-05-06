@@ -2,40 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f298b53e-8284-4b65-a06f-8f67257d3c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BSTSet/my" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/BSTSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/LinkedListSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/804-Unique-Morse-Code-Word.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pride-and-prejudice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BST/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BST/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BSTSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/BSTSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/Set.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/src/a-tale-of-two-cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/a-tale-of-two-cities.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/src/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/pride-and-prejudice.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -83,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedListMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="128" column="72" selection-start-line="128" selection-start-column="72" selection-end-line="128" selection-end-column="72" />
+            <state relative-caret-position="307">
+              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
               <folding>
                 <element signature="class#Node#0;class#LinkedListMap#0" />
                 <element signature="method#Node#0;class#Node#0;class#LinkedListMap#0" />
@@ -126,10 +99,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="266" />
-    <option name="y" value="182" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="77" />
+    <option name="y" value="77" />
+    <option name="width" value="1450" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -145,11 +118,6 @@
               <item name="Map" type="b2602c69:ProjectViewProjectNode" />
               <item name="Map" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Map" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +129,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="I:/learn/java/ideaWorkspace/candiandian" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -221,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557104273352</updated>
-      <workItem from="1557104276407" duration="2264000" />
+      <workItem from="1557104276407" duration="3924000" />
     </task>
     <task id="LOCAL-00001" summary="映射开始">
       <created>1557104705452</created>
@@ -230,15 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557104705452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&#10;链表影射完成">
+      <created>1557106855937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557106855937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2264000" />
+    <option name="totallyTimeSpent" value="3924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -255,7 +229,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -276,7 +250,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="映射开始" />
-    <option name="LAST_COMMIT_MESSAGE" value="映射开始" />
+    <MESSAGE value="&#10;链表影射完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;链表影射完成" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pride-and-prejudice.txt">
@@ -288,7 +263,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -301,8 +276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedListMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="128" column="72" selection-start-line="128" selection-start-column="72" selection-end-line="128" selection-end-column="72" />
+        <state relative-caret-position="307">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
           <folding>
             <element signature="class#Node#0;class#LinkedListMap#0" />
             <element signature="method#Node#0;class#Node#0;class#LinkedListMap#0" />

@@ -180,8 +180,32 @@ public class LinkedList<E> {
         prev.next = retNode.next;
         retNode.next = null;
         size--;
-
         return retNode.e;
+    }
+
+    //删除指定元素
+    public void removeE(E e){
+        remove(dummyHead , e);
+    }
+
+    //删除指定元素
+    private void remove(Node node,E e){
+
+        if(node.next == null){
+            return;
+        }
+
+        remove(node.next, e);
+
+        if(node.next.e == e){
+            Node nextNode = node.next.next;
+            node.next.next = null;
+            node.next = nextNode;
+
+//            Node delNode = node.next;
+//            node.next = delNode.next;
+//            delNode.next = null;
+        }
     }
 
     //从链表中删除第一个元素，返回删除的元素

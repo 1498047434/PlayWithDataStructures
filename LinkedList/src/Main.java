@@ -47,14 +47,24 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int opCount = 10000000;
-        LinkedStack<Integer> linkedStack = new LinkedStack<>();
-        double time1 = testQueue(linkedStack, opCount);
-        System.out.println("LinkedStack, time: " + time1 + "s");
+//        int opCount = 10000000;
+//        LinkedStack<Integer> linkedStack = new LinkedStack<>();
+//        double time1 = testQueue(linkedStack, opCount);
+//        System.out.println("LinkedStack, time: " + time1 + "s");
+//
+//        ArrayStack<Integer> arrayStack = new ArrayStack<>();
+//        double time2 = testQueue(arrayStack, opCount);
+//        System.out.println("ArrayStack, time: " + time2 + "s");
 
-        ArrayStack<Integer> arrayStack = new ArrayStack<>();
-        double time2 = testQueue(arrayStack, opCount);
-        System.out.println("ArrayStack, time: " + time2 + "s");
+        LinkedList<Integer> list = new LinkedList<>();
+
+        list.addFirst(7);
+        list.addFirst(6);
+        list.addFirst(5);
+        list.addFirst(5);
+        System.out.println(list);
+        list.removeE(5);
+        System.out.println("\n"+ list);
     }
 
 }

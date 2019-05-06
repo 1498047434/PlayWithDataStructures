@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae05bd68-c11f-4191-a1ff-2ecccd712ea0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BSTSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/804-Unique-Morse-Code-Word.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/pride-and-prejudice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/FileOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BST/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BST/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BSTSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Set.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a-tale-of-two-cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a-tale-of-two-cities.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pride-and-prejudice.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/src/LinkedListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/LinkedListMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -66,10 +38,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="190" selection-start-line="190" selection-end-line="208" selection-end-column="5" />
+            <state relative-caret-position="151">
+              <caret line="186" column="29" lean-forward="true" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
               <folding>
-                <element signature="e#4006#4007#0" expanded="true" />
                 <element signature="e#4043#4044#0" expanded="true" />
               </folding>
             </state>
@@ -97,11 +68,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="266" />
-    <option name="y" value="182" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="77" />
+    <option name="y" value="77" />
+    <option name="width" value="1450" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -185,10 +156,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2233000" />
+    <option name="totallyTimeSpent" value="2973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -250,10 +221,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="190" selection-start-line="190" selection-end-line="208" selection-end-column="5" />
+        <state relative-caret-position="151">
+          <caret line="186" column="29" lean-forward="true" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
           <folding>
-            <element signature="e#4006#4007#0" expanded="true" />
             <element signature="e#4043#4044#0" expanded="true" />
           </folding>
         </state>

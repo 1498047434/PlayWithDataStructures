@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8575cce9-633d-4040-81df-3d6cb3a3b51f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BSTSet/my" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/BSTSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/LinkedListSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BSTSet/src/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/804-Unique-Morse-Code-Word.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/804-Unique-Morse-Code-Word/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/pride-and-prejudice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/FileOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BSTSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/BSTSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/Set.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/src/a-tale-of-two-cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/a-tale-of-two-cities.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BSTSet/src/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/pride-and-prejudice.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/src/LinkedListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/LinkedListMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -99,11 +71,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="291" />
-    <option name="y" value="175" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="77" />
+    <option name="y" value="77" />
+    <option name="width" value="1450" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,7 +166,7 @@
     <option name="totallyTimeSpent" value="18610000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
