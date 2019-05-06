@@ -41,6 +41,7 @@ public class BST<E extends Comparable<E>> {
 //           add(root, e);
 //        }
         root = add(root,e);
+
     }
 
     //向以node为根的二分搜索树中插入新的元素E， 递归算法
