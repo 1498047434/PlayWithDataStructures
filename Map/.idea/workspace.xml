@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f298b53e-8284-4b65-a06f-8f67257d3c51" name="Default Changelist" comment="">
+    <list default="true" id="f298b53e-8284-4b65-a06f-8f67257d3c51" name="Default Changelist" comment="&#10;链表影射完成">
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/349-Intersection-Of-Two-Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/349-Intersection-Of-Two-Arrays/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/350-Intersection-Of-Two-Arrays2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/350-Intersection-Of-Two-Arrays2/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BSTMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BST/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BSTSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BSTSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/203-Remove-Linked-List-Elements/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Valid-Parentheses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +41,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="136">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="method#testMap#0;class#Main#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedListMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+            <state relative-caret-position="79">
+              <caret line="112" selection-start-line="112" selection-end-line="132" selection-end-column="5" />
               <folding>
                 <element signature="class#Node#0;class#LinkedListMap#0" />
                 <element signature="method#Node#0;class#Node#0;class#LinkedListMap#0" />
@@ -70,6 +89,28 @@
                 <element signature="e#1991#1992#0" expanded="true" />
                 <element signature="e#2069#2070#0" expanded="true" />
                 <element signature="method#getDummyHead#0;class#LinkedListMap#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BSTMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="class#Node#0;class#BSTMap#0" />
+                <element signature="method#BSTMap#0;class#BSTMap#0" />
+                <element signature="method#add#1;class#BSTMap#0" />
+                <element signature="method#remove#0;class#BSTMap#0" />
+                <element signature="method#get#0;class#BSTMap#0" />
+                <element signature="method#set#0;class#BSTMap#0" />
+                <element signature="method#getNode#0;class#BSTMap#0" />
+                <element signature="method#minimum#0;class#BSTMap#0" />
+                <element signature="method#minimum#1;class#BSTMap#0" />
+                <element signature="method#removeMin#0;class#BSTMap#0" />
+                <element signature="method#removeMin#1;class#BSTMap#0" />
               </folding>
             </state>
           </provider>
@@ -92,9 +133,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Map.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/FileOperation.java" />
         <option value="$PROJECT_DIR$/src/LinkedListMap.java" />
+        <option value="$PROJECT_DIR$/src/BSTMap.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -118,6 +160,11 @@
               <item name="Map" type="b2602c69:ProjectViewProjectNode" />
               <item name="Map" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -130,6 +177,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="I:/learn/java/ideaWorkspace/candiandian" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -151,7 +199,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListMap">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BSTMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BSTMap" />
+      <module name="Map" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedListMap" />
       <module name="Map" />
@@ -172,9 +227,12 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.LinkedListMap" />
+      <item itemvalue="Application.BSTMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BSTMap" />
         <item itemvalue="Application.LinkedListMap" />
       </list>
     </recent_temporary>
@@ -189,7 +247,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557104273352</updated>
-      <workItem from="1557104276407" duration="3924000" />
+      <workItem from="1557104276407" duration="8634000" />
     </task>
     <task id="LOCAL-00001" summary="映射开始">
       <created>1557104705452</created>
@@ -205,14 +263,22 @@
       <option name="project" value="LOCAL" />
       <updated>1557106855937</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&#10;链表影射完成">
+      <created>1557115898419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557115898419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3924000" />
+    <option name="totallyTimeSpent" value="8634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -253,19 +319,24 @@
     <MESSAGE value="&#10;链表影射完成" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;链表影射完成" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BSTMap.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pride-and-prejudice.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FileOperation.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Map.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -276,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedListMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        <state relative-caret-position="79">
+          <caret line="112" selection-start-line="112" selection-end-line="132" selection-end-column="5" />
           <folding>
             <element signature="class#Node#0;class#LinkedListMap#0" />
             <element signature="method#Node#0;class#Node#0;class#LinkedListMap#0" />
@@ -290,6 +361,36 @@
             <element signature="e#1991#1992#0" expanded="true" />
             <element signature="e#2069#2070#0" expanded="true" />
             <element signature="method#getDummyHead#0;class#LinkedListMap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BSTMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="class#Node#0;class#BSTMap#0" />
+            <element signature="method#BSTMap#0;class#BSTMap#0" />
+            <element signature="method#add#1;class#BSTMap#0" />
+            <element signature="method#remove#0;class#BSTMap#0" />
+            <element signature="method#get#0;class#BSTMap#0" />
+            <element signature="method#set#0;class#BSTMap#0" />
+            <element signature="method#getNode#0;class#BSTMap#0" />
+            <element signature="method#minimum#0;class#BSTMap#0" />
+            <element signature="method#minimum#1;class#BSTMap#0" />
+            <element signature="method#removeMin#0;class#BSTMap#0" />
+            <element signature="method#removeMin#1;class#BSTMap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="method#testMap#0;class#Main#0" />
           </folding>
         </state>
       </provider>
