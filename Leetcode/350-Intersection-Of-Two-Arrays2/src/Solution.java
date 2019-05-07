@@ -7,7 +7,6 @@ class Solution {
         TreeMap<Integer, Integer> map = new TreeMap<>();
         ArrayList<Integer> list = new ArrayList<>();
 
-
         for (int num:nums1){
             if (!map.containsKey(num)){
                 map.put(num,1);
@@ -15,6 +14,7 @@ class Solution {
                 map.put(num, map.get(num) + 1);
             }
         }
+
         for (int num:nums2){
             if (map.containsKey(num)){
                 list.add(num);
